@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 開啟應用程式 (Terminal)
 
-* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L255-L259)
+* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L255-L259)
 
 
 | 按鍵組合          | 功能         | 執行指令                     |

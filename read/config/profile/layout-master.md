@@ -14,7 +14,7 @@ grand_parent: 設定
 
 ## 設定檔專案
 
-* [Layout-Master](https://github.com/samwhelp/fedora-hyprland-adjustment/tree/main/prototype/main/hyprland-config/Main)
+* [Layout-Master](https://github.com/samwhelp/fedora-hyprland-adjustment/tree/main/prototype/main/hyprland-config/full/Main)
 
 
 
@@ -23,7 +23,7 @@ grand_parent: 設定
 
 | 路徑 | 簡易說明 |
 | --- | --- |
-| [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf) | Hyprland Config for Layout-Master |
+| [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf) | Hyprland Config for Layout-Master |
 
 
 

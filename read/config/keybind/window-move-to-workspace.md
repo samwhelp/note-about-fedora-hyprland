@@ -10,7 +10,7 @@ grand_parent: 設定
 # 視窗移到指定工作空間
 
 
-* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L346-L355)
+* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L346-L355)
 
 | 按鍵組合          | 功能     | 執行指令         |
 | --------- | -------------------------------------------- | --------------------------------------------------- |

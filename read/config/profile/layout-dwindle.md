@@ -14,7 +14,7 @@ grand_parent: 設定
 
 ## 設定檔專案
 
-* [Layout-Dwindle](https://github.com/samwhelp/fedora-hyprland-adjustment/tree/main/prototype/main/hyprland-config/Layout-Dwindle)
+* [Layout-Dwindle](https://github.com/samwhelp/fedora-hyprland-adjustment/tree/main/prototype/main/hyprland-config/full/Layout-Dwindle)
 
 
 
@@ -23,7 +23,7 @@ grand_parent: 設定
 
 | 路徑 | 簡易說明 |
 | --- | --- |
-| [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Layout-Dwindle/asset/overlay/etc/skel/.config/hypr/hyprland.conf) | Hyprland Config for Layout-Dwindle |
+| [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Layout-Dwindle/asset/overlay/etc/skel/.config/hypr/hyprland.conf) | Hyprland Config for Layout-Dwindle |
 
 
 

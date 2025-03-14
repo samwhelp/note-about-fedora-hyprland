@@ -27,7 +27,7 @@ grand_parent: 設定
 | `XF86_AudioRaiseVolume (XF86AudioRaiseVolume)` | 增加音量       | `pamixer -i 5` |
 
 
-* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L475-L477)
+* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L475-L477)
 
 ```
 bind = , XF86AudioMute, exec, pamixer --toggle-mute
@@ -47,7 +47,7 @@ bind = , XF86AudioRaiseVolume, exec, pamixer -i 10
 | `Alt + Shift + v` | 開啟音量控制面板 | `mate-volume-control`                       |
 
 
-* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L329)
+* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L329)
 
 ```
 bind = ALT SHIFT, v, exec, mate-volume-control
@@ -75,7 +75,7 @@ bind = ALT SHIFT, v, exec, mate-volume-control
 | `Alt + Ctrl + .`  | 緩慢地增加音量   | `pamixer -i 5` |
 
 
-* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L480-L486)
+* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L480-L486)
 
 ```
 bind = ALT, m, exec, pamixer --toggle-mute
@@ -105,7 +105,7 @@ bind = ALT CTRL, period, exec, pamixer -i 5
 | `XF86AudioRaiseVolume` | 增加音量       | `amixer -q -D pulse sset Master 5%+ unmute` |
 
 
-* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L451-L453)
+* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L451-L453)
 
 ```
 bind = , XF86AudioMute, exec, amixer -q -D pulse sset Master toggle
@@ -125,7 +125,7 @@ bind = , XF86AudioRaiseVolume, exec, amixer -q -D pulse sset Master 5%+ unmute
 | `Alt + Shift + v` | 開啟音量控制面板 | `mate-volume-control`                       |
 
 
-* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L329)
+* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L329)
 
 ```
 bind = ALT SHIFT, v, exec, mate-volume-control
@@ -153,7 +153,7 @@ bind = ALT SHIFT, v, exec, mate-volume-control
 | `Alt + Ctrl + .`  | 緩慢地增加音量   | `amixer -q -D pulse sset Master 1%+ unmute` |
 
 
-* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L456-L462)
+* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L456-L462)
 
 ```
 bind = ALT, m, exec, amixer -q -D pulse sset Master toggle

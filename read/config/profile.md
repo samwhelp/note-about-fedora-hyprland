@@ -15,8 +15,8 @@ parent: 設定
 
 | Profile | Config File | Hyprland Wiki |
 | --- | --- | --- |
-| [Layout-Dwindle](profile/layout-dwindle) | [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Layout-Dwindle/asset/overlay/etc/skel/.config/hypr/hyprland.conf) | [Dwindle Layout](https://wiki.hyprland.org/Configuring/Dwindle-Layout/) |
-| [Layout-Master](profile/layout-master) | [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf) | [Master Layout](https://wiki.hyprland.org/Configuring/Master-Layout/) |
+| [Layout-Dwindle](profile/layout-dwindle) | [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Layout-Dwindle/asset/overlay/etc/skel/.config/hypr/hyprland.conf) | [Dwindle Layout](https://wiki.hyprland.org/Configuring/Dwindle-Layout/) |
+| [Layout-Master](profile/layout-master) | [~/.config/hypr/hyprland.conf](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf) | [Master Layout](https://wiki.hyprland.org/Configuring/Master-Layout/) |
 
 
 

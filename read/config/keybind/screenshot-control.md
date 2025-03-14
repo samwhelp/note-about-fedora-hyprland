@@ -25,7 +25,7 @@ grand_parent: 設定
 | `Ctrl + Print` | 選取螢幕畫面區塊截圖  | `grimshot save area` |
 
 
-* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L508-L515)
+* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L508-L515)
 
 ```
 bind = , Print, exec, grimshot save screen

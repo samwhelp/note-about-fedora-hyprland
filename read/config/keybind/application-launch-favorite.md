@@ -26,7 +26,7 @@ grand_parent: 設定
 | `Alt + Shift + n` | 開啟網路連接器 | `kitty --class 'nmtui' --title 'Network Settings' nmtui`    |
 
 
-* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L321-L330)
+* [設定片段](https://github.com/samwhelp/fedora-hyprland-adjustment/blob/main/prototype/main/hyprland-config/full/Main/asset/overlay/etc/skel/.config/hypr/hyprland.conf#L321-L330)
 
 ```
 bind = ALT SHIFT, f, exec, pcmanfm-qt
